@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: module-users
+  flyway:
+    default-schema: dlk_users
+
+server:
+  port: 8081
